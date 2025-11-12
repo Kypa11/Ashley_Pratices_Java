@@ -1,4 +1,4 @@
-# Ashley_Praticed_Java
+# Ashley_Praticed_JavaScript
 
 Hello!
 I am a software engineering student, and I am now being intentional about building real coding skills.
